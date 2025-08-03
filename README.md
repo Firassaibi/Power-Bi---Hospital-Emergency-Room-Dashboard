@@ -92,7 +92,7 @@ Ce projet vise à analyser les données d’un service d’urgence hospitalier s
 ## 🙋‍♂️ Auteur
 
 **Firas Saibi**  
-📧 [Contact LinkedIn / Email à ajouter]
+📧 [Contact LinkedIn(https://www.linkedin.com/in/sabimohamedfiras/)]
 
 ---
 
